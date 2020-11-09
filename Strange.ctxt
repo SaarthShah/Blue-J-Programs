@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Strange
+comment1.params=c
+comment1.target=Strange(int)
+comment2.params=v
+comment2.target=void\ pushchar(char)
+comment3.params=
+comment3.target=char\ popchar()
+numComments=4

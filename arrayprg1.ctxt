@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=arrayprg1
+comment1.params=
+comment1.target=void\ input()
+comment2.params=
+comment2.target=void\ print()
+comment3.params=
+comment3.target=void\ Bsearch()
+comment4.params=
+comment4.target=void\ Bsort()
+comment5.params=
+comment5.target=void\ ssort()
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7

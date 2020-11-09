@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Time
+comment1.params=
+comment1.target=Time()
+comment2.params=
+comment2.target=void\ input()
+comment3.params=
+comment3.target=void\ print()
+comment4.params=t
+comment4.target=Time\ difftime(Time)
+comment5.params=args
+comment5.target=void\ main(java.lang.String)
+numComments=6

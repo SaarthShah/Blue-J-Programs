@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Compute
+comment1.params=n\ a\ p
+comment1.target=Library(java.lang.String,\ java.lang.String,\ double)
+comment2.params=
+comment2.target=void\ show()
+comment3.params=day\ nm\ au\ pr
+comment3.target=Compute(int,\ java.lang.String,\ java.lang.String,\ double)
+comment4.params=
+comment4.target=void\ fine()
+comment5.params=
+comment5.target=void\ display()
+comment6.params=
+comment6.target=void\ main()
+numComments=7

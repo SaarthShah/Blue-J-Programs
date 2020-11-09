@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=school
+comment1.params=schoolRooms
+comment1.target=school(java.util.ArrayList)
+comment2.params=teachersname\ idnum
+comment2.target=java.lang.String\ findstudent(java.lang.String,\ int)
+numComments=3

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=palprime
+comment1.params=a\ b
+comment1.target=palprime(int,\ int)
+comment2.params=n
+comment2.target=boolean\ isprime(int)
+comment3.params=n
+comment3.target=boolean\ ispal(int)
+comment4.params=
+comment4.target=void\ Genpalprime()
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

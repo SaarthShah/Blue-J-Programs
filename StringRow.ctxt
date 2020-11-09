@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=StringRow
+comment1.params=limit
+comment1.target=StringRow(int)
+comment2.params=w
+comment2.target=void\ pushWord(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ popWord()
+comment4.params=
+comment4.target=void\ display()
+numComments=5
